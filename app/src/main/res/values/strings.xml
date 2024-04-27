@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">JetPedia</string>
+    <string name="image">Image</string>
+    <string name="logo_gdsc">Logo GDSC</string>
+    <string name="welcome_text">Welcome To Jet Pedia</string>
+    <string name="username_placeholder">Username</string>
+    <string name="password_placeholder">Password</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="login">Login</string>
+    <string name="search_placeholder">Search...</string>
+    <string name="featured_product">Featured Product</string>
+    <string name="detail">Detail</string>
+    <string name="back">Back</string>
+    <string name="lorem_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum tincidunt quam. Nunc pretium rhoncus tellus, id ultricies tortor lacinia non. Nunc turpis eros, porttitor at blandit at, tempor malesuada purus. Vivamus eget sagittis elit. Nulla vitae mi tempor, pharetra orci quis, consequat lorem. Etiam at gravida ante. Duis tempor augue metus, vitae semper felis pharetra id. Nam vitae accumsan ex. Phasellus eget velit ipsum. Proin ex diam, laoreet nec ullamcorper id, feugiat at leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum tincidunt quam. Nunc pretium rhoncus tellus, id ultricies tortor lacinia non. Nunc turpis eros, porttitor at blandit at, tempor malesuada purus. Vivamus eget sagittis elit. Nulla vitae mi tempor, pharetra orci quis, consequat lorem. Etiam at gravida ante. Duis tempor augue metus, vitae semper felis pharetra id. Nam vitae accumsan ex. Phasellus eget velit ipsum. Proin ex diam, laoreet nec ullamcorper id, feugiat at leo.</string>
 </resources>
